@@ -6,6 +6,6 @@
 
 ### 2) How do we know whether something should be a component in React?
 
-We should use the same intuition as when designing classes in OOP languages: a component should represent an isolated idea/object in our App that groups together all the functionality required to meets the goal of the component.
+- We should use the same intuition as when designing classes in OOP languages: a component should represent an isolated idea/object in our App that groups together all the functionality required to meets the goal of the component.
 
-As a general rule: we create components to represent ideas in of the business logic of the app and we achieve it’s goal by combining smaller elements through composition.
+- As a general rule: we create components to represent ideas in of the business logic of the app and we achieve it’s goal by combining smaller elements through composition.
