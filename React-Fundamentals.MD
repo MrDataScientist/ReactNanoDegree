@@ -1,3 +1,6 @@
+
+## React NanoDegree program : Starting 17 July 2018.
+
 ### 1) What is a component? How do components relate to props?
 
 - A component is a reactJS object that knows how to render itself and  combines a bunch of small elements together with the goal of grouping and encapsulating functionality.
