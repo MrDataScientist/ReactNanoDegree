@@ -9,3 +9,8 @@
 - We should use the same intuition as when designing classes in OOP languages: a component should represent an isolated idea/object in our App that groups together all the functionality required to meets the goal of the component.
 
 - As a general rule: we create components to represent ideas in of the business logic of the app and we achieve it’s goal by combining smaller elements through composition.
+
+### QUESTION 1 OF 2
+When is it appropriate to use a Stateless Functional Component? Check all that apply.
+- when all the components needs a render() method
+- If a component is only using a render method to display content, then it can be converted into a Stateless Functional Component.
