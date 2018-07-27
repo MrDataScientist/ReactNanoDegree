@@ -10,6 +10,7 @@
 
 - As a general rule: we create components to represent ideas in of the business logic of the app and we achieve it’s goal by combining smaller elements through composition.
 
+## Lecture 3 : functional components
 ### QUESTION 1 OF 2
 When is it appropriate to use a Stateless Functional Component? Check all that apply.
 - when all the components needs a render() method
