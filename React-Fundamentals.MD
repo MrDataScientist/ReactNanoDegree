@@ -18,3 +18,6 @@
 When is it appropriate to use a Stateless Functional Component? Check all that apply.
 - when all the components needs a render() method
 - If a component is only using a render method to display content, then it can be converted into a Stateless Functional Component.
+
+
+## xd
